@@ -1,0 +1,2 @@
+C:\Users\hyunj\winapi.rust\cpp\Debug\cpp.exe
+C:\Users\hyunj\winapi.rust\cpp\Debug\cpp.pdb
